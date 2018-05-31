@@ -1,4 +1,4 @@
-/* fckvwls.js - Md fr ll y 11-13 yr lds - Cpyrght (c) 2018, Ntdcks */
+/* fckvwls.js - Md fr ll y 11-13 yr lds */
 
 window.fckvwls = {
 	rmvLlVwls: function()
